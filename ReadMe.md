@@ -68,6 +68,6 @@ The dashboard helps businesses and analysts make **data-driven decisions** by vi
 ---
 
 ## 👨‍💻 Author
-**Piyush Vinde**  
+**Rohit Gadai**  
 B.Tech Computer Engineering  
 Aspiring Data Analyst and DevOps Engineer
